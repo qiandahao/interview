@@ -1,0 +1,38 @@
+Golang
+跳表 https://blog.csdn.net/qq_34412579/article/details/101731935
+深入学习redis：https://www.cnblogs.com/kismetv/p/9137897.html
+
+Prometheus
+https://github.com/yunlzheng/prometheus-book
+
+
+Etcd
+代码探索 MVCC、WATCH等 https://segmentfault.com/a/1190000021787011
+http://jolestar.com/etcd-architecture/
+
+Redis
+跳表 https://blog.csdn.net/qq_34412579/article/details/101731935
+深入学习redis：https://www.cnblogs.com/kismetv/p/9137897.html
+集群操作：https://blog.csdn.net/miss1181248983/article/details/90056960
+
+
+数据库
+索引概念： http://www.liuzk.com/410.html
+索引 https://zhuanlan.zhihu.com/p/29118331
+
+淘宝数据库月报： http://mysql.taobao.org/monthly/2018/10/05/
+
+算法
+蓄水池算法 https://blog.51cto.com/buptdtt/690720
+
+
+面经
+作业帮面试 https://www.jianshu.com/p/21de3f64541b
+老程序员7年？ https://blog.csdn.net/chanya/article/details/106267951
+pingcap吐槽 https://exp.newsmth.net/topic/article/aacafa570ab2a8cfedd46ff728baaf8c
+
+
+Pingcap
+pingcap吐槽 https://exp.newsmth.net/topic/article/aacafa570ab2a8cfedd46ff728baaf8c
+blog： https://aleiwu.com/post/    
+chaos-mesh: https://yisaer.gitbook.io/chaos-mesh-contributing-tutorials/da-jian-chaosmesh-ben-di-kai-fa-huan-jing/le-jie-kubernetes-yu-xiang-guan-gong-ju
