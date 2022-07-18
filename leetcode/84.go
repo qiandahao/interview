@@ -28,23 +28,3 @@ func max(a int, b int) int {
 			return b
 	}
 }
-// 2, 2 1 -- 1
-
-int n = heights.size(), ans = 0;
-        heights.push_back(-1);
-        // 为了算法书写方便，在数组末尾添加高度 -1
-        // 这会使得栈中所有数字在最后出栈。
-        stack<int> st;
-        for (int i = 0; i <= n; i++) {
-            while (!st.empty() && heights[i] < heights[st.top()]) {
-                int cur = st.top();
-                st.pop();
-                if (st.empty())
-                    ans = max(ans, heights[cur] * i);
-                else
-                    ans = max(ans, heights[cur] 
-                            * (i - st.top() - 1));
-            }
-            st.push(i);
-        }
-        return ans;
