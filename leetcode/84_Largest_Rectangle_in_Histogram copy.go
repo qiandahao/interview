@@ -12,7 +12,7 @@ func largestRectangleArea(heights []int) int {
 				if len(stack) == 0 {
 					res = max(res, heights[cur] * i)
 				} else {
-					res = max(ans, heights[cur] * (i - height[stack[len(stack)-1] - 1))
+					res = max(res, heights[cur] * (i - height[stack[len(stack)-1] - 1))
 				}
 			}
 			stack = append(stack, i)
